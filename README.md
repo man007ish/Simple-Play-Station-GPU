@@ -43,7 +43,7 @@ Download or Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/PlayStation-GPU-Simulation.git
+
 cd PlayStation-GPU-Simulation
 Run the simulation:
 
